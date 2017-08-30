@@ -1,1 +1,1 @@
-# STM8S-LCD-SDCC
+# sdcc-stm8-example
